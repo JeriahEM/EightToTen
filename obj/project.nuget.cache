@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5rhMeazdsZ9Lujg9CrmtIVNVl5quAZ0NPPFtZmvXShJWIp4L/StaXtr6a0j9SaqUZGxoo+rEFCyCNpHK4Yzaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jeria\\OneDrive\\Desktop\\CodeStack lvl 2\\EightToTen\\EightToTen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeria\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Jeria\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
